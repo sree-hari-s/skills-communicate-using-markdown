@@ -19,3 +19,10 @@
 ```python
 print("Hello World!")
 ```
+
+---
+
+- [x] Add Headers
+- [x] Add Image using markdown
+- [x] Add Code sample
+- [ ] Add Task list
